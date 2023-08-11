@@ -6,4 +6,4 @@ In recent years, the field of single-cell genomics has witnessed an unprecedente
 
 This project seeks to delve further into this rich biological data by employing advanced machine-learning models to explore how these genetic factors co-vary as bone marrow stem cells mature into blood cells.
 
-For the source of the dataset related to this project, please go to [Source of the dataset]([https://www.google.com/](https://www.kaggle.com/competitions/open-problems-multimodal/data)https://www.kaggle.com/competitions/open-problems-multimodal/data)
+For the source of the dataset related to this project, please go to [Source of the dataset](https://www.google.com/](https://www.kaggle.com/competitions/open-problems-multimodal/data)https://www.kaggle.com/competitions/open-problems-multimodal/data)
